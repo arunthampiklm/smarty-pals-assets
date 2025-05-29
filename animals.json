@@ -1,0 +1,130 @@
+{
+  "topics": ["Animals", "Wild Animals", "Farm Animals", "Pets", "Animal Sounds", "Habitats"],
+  "questions": [
+    {
+      "question": "Which animal is known as the king of the jungle?",
+      "options": ["Elephant", "Tiger", "Lion", "Bear"],
+      "correctAnswer": "Lion"
+    },
+    {
+      "question": "Which animal gives us milk?",
+      "options": ["Goat", "Dog", "Cat", "Hen"],
+      "correctAnswer": "Goat"
+    },
+    {
+      "question": "Which animal barks?",
+      "options": ["Cow", "Dog", "Cat", "Sheep"],
+      "correctAnswer": "Dog"
+    },
+    {
+      "question": "Which bird cannot fly?",
+      "options": ["Sparrow", "Eagle", "Ostrich", "Crow"],
+      "correctAnswer": "Ostrich"
+    },
+    {
+      "question": "Which animal lives in water?",
+      "options": ["Horse", "Frog", "Camel", "Fish"],
+      "correctAnswer": "Fish"
+    },
+    {
+      "question": "Which of these is a pet animal?",
+      "options": ["Lion", "Tiger", "Cat", "Elephant"],
+      "correctAnswer": "Cat"
+    },
+    {
+      "question": "Which animal has black and white stripes?",
+      "options": ["Tiger", "Zebra", "Cow", "Panther"],
+      "correctAnswer": "Zebra"
+    },
+    {
+      "question": "Which animal has a long trunk?",
+      "options": ["Giraffe", "Elephant", "Kangaroo", "Hippo"],
+      "correctAnswer": "Elephant"
+    },
+    {
+      "question": "Which animal hops and carries its baby in a pouch?",
+      "options": ["Monkey", "Kangaroo", "Bear", "Dog"],
+      "correctAnswer": "Kangaroo"
+    },
+    {
+      "question": "What does a cow eat?",
+      "options": ["Meat", "Fish", "Grass", "Fruits"],
+      "correctAnswer": "Grass"
+    },
+    {
+      "question": "Where do birds live?",
+      "options": ["Den", "Nest", "Stable", "Pond"],
+      "correctAnswer": "Nest"
+    },
+    {
+      "question": "Which of these animals lays eggs?",
+      "options": ["Cat", "Dog", "Hen", "Cow"],
+      "correctAnswer": "Hen"
+    },
+    {
+      "question": "Which animal is the tallest?",
+      "options": ["Elephant", "Giraffe", "Lion", "Horse"],
+      "correctAnswer": "Giraffe"
+    },
+    {
+      "question": "Which animal can fly?",
+      "options": ["Bat", "Cat", "Dog", "Frog"],
+      "correctAnswer": "Bat"
+    },
+    {
+      "question": "Which animal has a hump on its back?",
+      "options": ["Elephant", "Camel", "Tiger", "Horse"],
+      "correctAnswer": "Camel"
+    },
+    {
+      "question": "Which of these is a wild animal?",
+      "options": ["Cow", "Lion", "Goat", "Hen"],
+      "correctAnswer": "Lion"
+    },
+    {
+      "question": "Which animal guards our home?",
+      "options": ["Cow", "Cat", "Dog", "Horse"],
+      "correctAnswer": "Dog"
+    },
+    {
+      "question": "Which animal gives us wool?",
+      "options": ["Dog", "Sheep", "Goat", "Pig"],
+      "correctAnswer": "Sheep"
+    },
+    {
+      "question": "Which animal purrs?",
+      "options": ["Dog", "Cat", "Cow", "Goat"],
+      "correctAnswer": "Cat"
+    },
+    {
+      "question": "What sound does a lion make?",
+      "options": ["Moo", "Roar", "Bark", "Neigh"],
+      "correctAnswer": "Roar"
+    },
+    {
+      "question": "Where do fish live?",
+      "options": ["Cage", "Nest", "Pond", "Tree"],
+      "correctAnswer": "Pond"
+    },
+    {
+      "question": "Which of these animals has a shell?",
+      "options": ["Fish", "Turtle", "Cat", "Frog"],
+      "correctAnswer": "Turtle"
+    },
+    {
+      "question": "Which animal is called man's best friend?",
+      "options": ["Cat", "Cow", "Dog", "Horse"],
+      "correctAnswer": "Dog"
+    },
+    {
+      "question": "Which animal likes bananas?",
+      "options": ["Bear", "Monkey", "Dog", "Rabbit"],
+      "correctAnswer": "Monkey"
+    },
+    {
+      "question": "Which animal says 'meow'?",
+      "options": ["Cat", "Dog", "Sheep", "Pig"],
+      "correctAnswer": "Cat"
+    }
+  ]
+}
