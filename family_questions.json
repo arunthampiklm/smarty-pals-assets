@@ -1,0 +1,143 @@
+{
+  "topics": [
+    "Family",
+    "Types of Families",
+    "Importance of Family",
+    "Family Relationships",
+    "Joint and Nuclear Families",
+    "My Home and Family",
+    "Family Tree"
+  ],
+  "questions": [
+    {
+      "question": "What is a family?",
+      "options": [
+        "A group of strangers",
+        "People who live in different cities",
+        "People who love and care for each other",
+        "Only friends"
+      ],
+      "correctAnswer": "People who love and care for each other"
+    },
+    {
+      "question": "What is a nuclear family?",
+      "options": [
+        "Parents and children",
+        "Grandparents only",
+        "Uncles and aunts only",
+        "Cousins only"
+      ],
+      "correctAnswer": "Parents and children"
+    },
+    {
+      "question": "What is a joint family?",
+      "options": [
+        "Just parents and children",
+        "A big family with grandparents, uncles, aunts, and cousins",
+        "Only friends",
+        "A family with pets"
+      ],
+      "correctAnswer": "A big family with grandparents, uncles, aunts, and cousins"
+    },
+    {
+      "question": "Who is the head of most families?",
+      "options": [
+        "Teacher",
+        "Friend",
+        "One or both parents",
+        "Neighbor"
+      ],
+      "correctAnswer": "One or both parents"
+    },
+    {
+      "question": "Why is family important?",
+      "options": [
+        "They give us money",
+        "They help us grow, learn, and feel loved",
+        "They make us do homework",
+        "They buy us gifts"
+      ],
+      "correctAnswer": "They help us grow, learn, and feel loved"
+    },
+    {
+      "question": "What is a single parent family?",
+      "options": [
+        "Family with one parent",
+        "Family with many cousins",
+        "Family with no children",
+        "Family with only grandparents"
+      ],
+      "correctAnswer": "Family with one parent"
+    },
+    {
+      "question": "Who are your siblings?",
+      "options": [
+        "Your teachers",
+        "Your brothers and sisters",
+        "Your neighbors",
+        "Your pets"
+      ],
+      "correctAnswer": "Your brothers and sisters"
+    },
+    {
+      "question": "Who is your grandmother?",
+      "options": [
+        "Your mother\u2019s or father\u2019s mother",
+        "Your sister",
+        "Your friend\u2019s mom",
+        "Your neighbor"
+      ],
+      "correctAnswer": "Your mother\u2019s or father\u2019s mother"
+    },
+    {
+      "question": "What do families do together?",
+      "options": [
+        "Fight every day",
+        "Support and enjoy time together",
+        "Live separately",
+        "Go to different schools"
+      ],
+      "correctAnswer": "Support and enjoy time together"
+    },
+    {
+      "question": "Who is your cousin?",
+      "options": [
+        "Your uncle\u2019s or aunt\u2019s child",
+        "Your classmate",
+        "Your teacher",
+        "Your sibling"
+      ],
+      "correctAnswer": "Your uncle\u2019s or aunt\u2019s child"
+    },
+     {
+      "question": "What is a family tree?",
+      "options": [
+        "A tree in your garden",
+        "A chart showing family relationships",
+        "A book of fairy tales",
+        "A family photo album"
+      ],
+      "correctAnswer": "A chart showing family relationships"
+    },
+    {
+      "question": "Who is usually at the top of a family tree?",
+      "options": [
+        "The youngest child",
+        "The parents",
+        "The grandparents or oldest family members",
+        "The cousins"
+      ],
+      "correctAnswer": "The grandparents or oldest family members"
+    },
+    {
+      "question": "What can a family tree help you learn?",
+      "options": [
+        "How to plant trees",
+        "How to draw a map",
+        "About your family history and relatives",
+        "How to cook food"
+      ],
+      "correctAnswer": "About your family history and relatives"
+    }
+  ]
+}
