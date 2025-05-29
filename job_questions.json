@@ -1,0 +1,130 @@
+{
+  "topics": ["Jobs", "Occupations", "Community Helpers", "Professions"],
+  "questions": [
+    {
+      "question": "Who flies an airplane?",
+      "options": ["Driver", "Pilot", "Sailor", "Astronaut"],
+      "correctAnswer": "Pilot"
+    },
+    {
+      "question": "Who helps keep our streets safe?",
+      "options": ["Teacher", "Police Officer", "Chef", "Nurse"],
+      "correctAnswer": "Police Officer"
+    },
+    {
+      "question": "Who takes care of sick animals?",
+      "options": ["Doctor", "Vet", "Farmer", "Firefighter"],
+      "correctAnswer": "Vet"
+    },
+    {
+      "question": "Who cuts our hair?",
+      "options": ["Barber", "Mechanic", "Plumber", "Pilot"],
+      "correctAnswer": "Barber"
+    },
+    {
+      "question": "Who repairs leaking pipes?",
+      "options": ["Electrician", "Plumber", "Teacher", "Postman"],
+      "correctAnswer": "Plumber"
+    },
+    {
+      "question": "Who paints houses?",
+      "options": ["Singer", "Driver", "Painter", "Chef"],
+      "correctAnswer": "Painter"
+    },
+    {
+      "question": "Who writes books?",
+      "options": ["Author", "Driver", "Teacher", "Engineer"],
+      "correctAnswer": "Author"
+    },
+    {
+      "question": "Who sews clothes?",
+      "options": ["Mechanic", "Farmer", "Tailor", "Doctor"],
+      "correctAnswer": "Tailor"
+    },
+    {
+      "question": "Who makes furniture?",
+      "options": ["Painter", "Carpenter", "Chef", "Postman"],
+      "correctAnswer": "Carpenter"
+    },
+    {
+      "question": "Who catches fish?",
+      "options": ["Fisherman", "Doctor", "Plumber", "Firefighter"],
+      "correctAnswer": "Fisherman"
+    },
+    {
+      "question": "Who works in a library?",
+      "options": ["Librarian", "Mechanic", "Barber", "Chef"],
+      "correctAnswer": "Librarian"
+    },
+    {
+      "question": "Who helps in a restaurant?",
+      "options": ["Waiter", "Mechanic", "Nurse", "Farmer"],
+      "correctAnswer": "Waiter"
+    },
+    {
+      "question": "Who creates paintings?",
+      "options": ["Artist", "Tailor", "Engineer", "Farmer"],
+      "correctAnswer": "Artist"
+    },
+    {
+      "question": "Who sings songs?",
+      "options": ["Singer", "Chef", "Mechanic", "Doctor"],
+      "correctAnswer": "Singer"
+    },
+    {
+      "question": "Who dances on stage?",
+      "options": ["Dancer", "Teacher", "Driver", "Vet"],
+      "correctAnswer": "Dancer"
+    },
+    {
+      "question": "Who fixes electrical problems?",
+      "options": ["Plumber", "Electrician", "Pilot", "Waiter"],
+      "correctAnswer": "Electrician"
+    },
+    {
+      "question": "Who makes clothes designs?",
+      "options": ["Fashion Designer", "Doctor", "Chef", "Police"],
+      "correctAnswer": "Fashion Designer"
+    },
+    {
+      "question": "Who bakes cakes?",
+      "options": ["Baker", "Teacher", "Janitor", "Barber"],
+      "correctAnswer": "Baker"
+    },
+    {
+      "question": "Who sells things in a shop?",
+      "options": ["Shopkeeper", "Chef", "Police", "Painter"],
+      "correctAnswer": "Shopkeeper"
+    },
+    {
+      "question": "Who helps airplanes land safely?",
+      "options": ["Pilot", "Air Traffic Controller", "Chef", "Teacher"],
+      "correctAnswer": "Air Traffic Controller"
+    },
+    {
+      "question": "Who helps people in a bank?",
+      "options": ["Banker", "Janitor", "Nurse", "Artist"],
+      "correctAnswer": "Banker"
+    },
+    {
+      "question": "Who helps buy or sell houses?",
+      "options": ["Tailor", "Real Estate Agent", "Driver", "Mechanic"],
+      "correctAnswer": "Real Estate Agent"
+    },
+    {
+      "question": "Who helps people with legal problems?",
+      "options": ["Lawyer", "Doctor", "Chef", "Pilot"],
+      "correctAnswer": "Lawyer"
+    },
+    {
+      "question": "Who guards buildings?",
+      "options": ["Guard", "Teacher", "Artist", "Chef"],
+      "correctAnswer": "Guard"
+    },
+    {
+      "question": "Who entertains children at parties?",
+      "options": ["Clown", "Teacher", "Tailor", "Mechanic"],
+      "correctAnswer": "Clown"
+    }
+  ]
+}
