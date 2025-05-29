@@ -14,6 +14,46 @@
       "correctAnswer": "Ears"
     },
     {
+      "question": "What part of the body pumps blood?",
+      "options": ["Lungs", "Heart", "Stomach", "Brain"],
+      "correctAnswer": "Heart"
+    },
+    {
+      "question": "Where is the heart located in your body?",
+      "options": ["Left side of chest", "Right leg", "Back", "Neck"],
+      "correctAnswer": "Left side of chest"
+    },
+    {
+      "question": "What color is a healthy liver?",
+      "options": ["Red", "Yellow", "Brown", "Blue"],
+      "correctAnswer": "Brown"
+    },
+    {
+      "question": "Which organ helps in digestion and is found below the chest?",
+      "options": ["Stomach", "Heart", "Lungs", "Brain"],
+      "correctAnswer": "Stomach"
+    },
+    {
+      "question": "Where are your kidneys located?",
+      "options": ["Lower back", "Neck", "Chest", "Head"],
+      "correctAnswer": "Lower back"
+    },
+    {
+      "question": "Which part of the body helps take food from the stomach?",
+      "options": ["Intestines", "Lungs", "Liver", "Brain"],
+      "correctAnswer": "Intestines"
+    },
+    {
+      "question": "What part of your body cleans your blood?",
+      "options": ["Kidneys", "Lungs", "Heart", "Stomach"],
+      "correctAnswer": "Kidneys"
+    },
+    {
+      "question": "Which organ is shaped like a bean?",
+      "options": ["Kidney", "Heart", "Liver", "Brain"],
+      "correctAnswer": "Kidney"
+    },
+    {
       "question": "What part of your body do you use to see?",
       "options": ["Nose", "Eyes", "Ears", "Mouth"],
       "correctAnswer": "Eyes"
