@@ -1,0 +1,114 @@
+{
+  "topics": [
+    "Earth",
+    "Planet Earth",
+    "Earth and Its Layers",
+    "Continents and Oceans",
+    "Landforms and Water Bodies",
+    "Seasons and Weather",
+    "Natural Resources",
+    "Taking Care of the Earth"
+  ],
+  "questions": [
+    {
+      "question": "What is the shape of the Earth?",
+      "options": [
+        "Flat",
+        "Square",
+        "Round like a ball",
+        "Triangle"
+      ],
+      "correctAnswer": "Round like a ball"
+    },
+    {
+      "question": "Which planet do we live on?",
+      "options": [
+        "Mars",
+        "Earth",
+        "Jupiter",
+        "Venus"
+      ],
+      "correctAnswer": "Earth"
+    },
+    {
+      "question": "What covers most of the Earth's surface?",
+      "options": [
+        "Mountains",
+        "Buildings",
+        "Water",
+        "Deserts"
+      ],
+      "correctAnswer": "Water"
+    },
+    {
+      "question": "What is the largest ocean on Earth?",
+      "options": [
+        "Atlantic",
+        "Pacific",
+        "Indian",
+        "Arctic"
+      ],
+      "correctAnswer": "Pacific"
+    },
+    {
+      "question": "How many continents are there?",
+      "options": [
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "correctAnswer": "7"
+    },
+    {
+      "question": "What is the land part of Earth called?",
+      "options": [
+        "Water",
+        "Sky",
+        "Ground",
+        "Cloud"
+      ],
+      "correctAnswer": "Ground"
+    },
+    {
+      "question": "Which layer of the Earth do we live on?",
+      "options": [
+        "Inner core",
+        "Outer core",
+        "Mantle",
+        "Crust"
+      ],
+      "correctAnswer": "Crust"
+    },
+    {
+      "question": "What do we call large bodies of salt water?",
+      "options": [
+        "Lakes",
+        "Rivers",
+        "Oceans",
+        "Streams"
+      ],
+      "correctAnswer": "Oceans"
+    },
+    {
+      "question": "What do we breathe to stay alive?",
+      "options": [
+        "Smoke",
+        "Air",
+        "Water",
+        "Fire"
+      ],
+      "correctAnswer": "Air"
+    },
+    {
+      "question": "What causes day and night?",
+      "options": [
+        "The moon",
+        "Rain",
+        "Earth's rotation",
+        "Waves"
+      ],
+      "correctAnswer": "Earth's rotation"
+    }
+  ]
+}
