@@ -125,6 +125,107 @@
       "question": "Which animal says 'meow'?",
       "options": ["Cat", "Dog", "Sheep", "Pig"],
       "correctAnswer": "Cat"
-    }
+    },
+    [
+  {
+    "question": "Where does a polar bear live?",
+    "options": ["Desert", "Jungle", "Arctic", "Ocean"],
+    "correctAnswer": "Arctic"
+  },
+  {
+    "question": "Where do camels usually live?",
+    "options": ["Forest", "Desert", "Ocean", "Mountains"],
+    "correctAnswer": "Desert"
+  },
+  {
+    "question": "Which animal lives in water?",
+    "options": ["Lion", "Elephant", "Dolphin", "Tiger"],
+    "correctAnswer": "Dolphin"
+  },
+  {
+    "question": "Where do monkeys live?",
+    "options": ["Mountains", "Forest", "Arctic", "Desert"],
+    "correctAnswer": "Forest"
+  },
+  {
+    "question": "Where do penguins live?",
+    "options": ["Jungle", "Mountains", "Cold places", "Desert"],
+    "correctAnswer": "Cold places"
+  },
+  {
+    "question": "Which animal lives underground?",
+    "options": ["Dog", "Mole", "Tiger", "Horse"],
+    "correctAnswer": "Mole"
+  },
+  {
+    "question": "Where does a lion live?",
+    "options": ["Den", "Nest", "Burrow", "Water"],
+    "correctAnswer": "Den"
+  },
+  {
+    "question": "Which animal lives in a burrow?",
+    "options": ["Rabbit", "Cow", "Elephant", "Deer"],
+    "correctAnswer": "Rabbit"
+  },
+  {
+    "question": "Where do fish live?",
+    "options": ["Forest", "Sky", "Water", "Desert"],
+    "correctAnswer": "Water"
+  },
+  {
+    "question": "Where do birds build their homes?",
+    "options": ["Caves", "Burrows", "Nests", "Dens"],
+    "correctAnswer": "Nests"
+  },
+       {
+    "question": "What sound does a dog make?",
+    "options": ["Meow", "Bark", "Moo", "Roar"],
+    "correctAnswer": "Bark"
+  },
+  {
+    "question": "What sound does a cat make?",
+    "options": ["Bark", "Meow", "Neigh", "Quack"],
+    "correctAnswer": "Meow"
+  },
+  {
+    "question": "What sound does a cow make?",
+    "options": ["Moo", "Roar", "Chirp", "Oink"],
+    "correctAnswer": "Moo"
+  },
+  {
+    "question": "What sound does a lion make?",
+    "options": ["Roar", "Moo", "Bark", "Meow"],
+    "correctAnswer": "Roar"
+  },
+  {
+    "question": "What sound does a duck make?",
+    "options": ["Quack", "Roar", "Bark", "Moo"],
+    "correctAnswer": "Quack"
+  },
+  {
+    "question": "What sound does a sheep make?",
+    "options": ["Moo", "Baa", "Meow", "Roar"],
+    "correctAnswer": "Baa"
+  },
+  {
+    "question": "What sound does a horse make?",
+    "options": ["Neigh", "Moo", "Bark", "Roar"],
+    "correctAnswer": "Neigh"
+  },
+  {
+    "question": "What sound does a pig make?",
+    "options": ["Oink", "Bark", "Moo", "Quack"],
+    "correctAnswer": "Oink"
+  },
+  {
+    "question": "What sound does a frog make?",
+    "options": ["Ribbit", "Bark", "Meow", "Neigh"],
+    "correctAnswer": "Ribbit"
+  },
+  {
+    "question": "What sound does a chicken make?",
+    "options": ["Cluck", "Quack", "Baa", "Roar"],
+    "correctAnswer": "Cluck"
+  }
   ]
 }
