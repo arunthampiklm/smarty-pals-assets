@@ -8,15 +8,15 @@
     "My Body Basics"
   ],
   "questions": [
+     {
+      "question": "Which part of the body helps you to hear sounds?",
+      "options": ["Eyes", "Nose", "Ears", "Hands"],
+      "correctAnswer": "Ears"
+    },
     {
       "question": "What part of your body do you use to see?",
       "options": ["Nose", "Eyes", "Ears", "Mouth"],
       "correctAnswer": "Eyes"
-    },
-    {
-      "question": "Which part of the body helps you to hear sounds?",
-      "options": ["Eyes", "Nose", "Ears", "Hands"],
-      "correctAnswer": "Ears"
     },
     {
       "question": "What do we use our legs for?",
